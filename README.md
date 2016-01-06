@@ -105,6 +105,8 @@ db.collection('tasks').insertMany(
 
 # Contribute
 
+The project is available on Github here: [https://github.com/huytd/object-model](https://github.com/huytd/object-model)
+
 I know my code isn't cool yet, there are many potential issues with such a logic. Please help me improve it if you can. Feel free to create _Pull Request_ or do code review for other _PR_.
 
 # License
