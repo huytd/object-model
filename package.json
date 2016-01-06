@@ -1,6 +1,6 @@
 {
   "name": "object-model",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Using any object as a model",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "orm"
   ],
   "author": "Huy Tran",
-  "license": "MIT"
+  "license": "MIT",
+  "tonicExampleFilename": "example.js"
 }
