@@ -1,4 +1,4 @@
-var OM = require('./index.js');
+var OM = require('object-model');
 
 var carModel = {
     make: '',
