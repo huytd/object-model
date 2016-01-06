@@ -1,0 +1,16 @@
+{
+  "name": "object-model",
+  "version": "1.0.0",
+  "description": "Using any object as a model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "model",
+    "orm"
+  ],
+  "author": "Huy Tran",
+  "license": "MIT"
+}
