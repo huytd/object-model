@@ -1,6 +1,6 @@
 {
   "name": "object-model",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Using any object as a model",
   "main": "index.js",
   "scripts": {
